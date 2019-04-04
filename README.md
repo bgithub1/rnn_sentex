@@ -1,5 +1,5 @@
 ## Sentdex Rnn with Keras
-### This is an ipynb notebook that attempts to speed up and simply the creation of sequence data for the RNN that Harrison create in :
+### This is an ipynb notebook that attempts to speed up and simplify the creation of sequence data for the RNN that Harrison create in :
 #### See (https://pythonprogramming.net/crypto-rnn-model-deep-learning-python-tensorflow-keras/)
 
 This project contains 2 jupyter notebooks:
